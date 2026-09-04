@@ -22,13 +22,13 @@
 
 </div>
 
+<h3 align="center"><code>System Identification</code></h3>
 <br>
 
 <img src="./info-card.svg" width="800">
 
 <br>
 
-<h3 align="center"><code>System Identification</code></h3>
 
 <div align="center">
 
