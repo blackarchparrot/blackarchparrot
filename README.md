@@ -28,23 +28,29 @@
 
 ### <code>Aftab Sunny</code>
 
-<!-- ADJUST THE width VALUE (e.g., 90%, 100%) TO RESIZE BOTH AT ONCE -->
+<!-- 
+  RESIZE CONTROL: 
+  Change 'width: 95%' below (e.g. 85%, 100%) to shrink or enlarge BOTH side-by-side cards at once.
+-->
 <div align="center" style="width: 95%; margin: 0 auto;">
   <table border="0" width="100%" cellspacing="0" cellpadding="0">
     <tr>
       <td width="48%" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/blackarchparrot/blackarchparrot/main/hxni-ascii.svg" width="100%" alt="ASCII Portrait" />
+        <a href="https://github.com/blackarchparrot">
+          <img src="https://raw.githubusercontent.com/blackarchparrot/blackarchparrot/main/hxni-ascii.svg" width="100%" alt="ASCII Portrait" />
+        </a>
       </td>
-      <td width="4%"></td>
+      <td width="4%"></td> <!-- Gap spacing -->
       <td width="48%" align="center" valign="middle">
-        <img src="https://raw.githubusercontent.com/blackarchparrot/blackarchparrot/main/info-card.svg" width="100%" alt="System Info Card" />
+        <a href="https://github.com/blackarchparrot">
+          <img src="https://raw.githubusercontent.com/blackarchparrot/blackarchparrot/main/info-card.svg" width="100%" alt="System Info Card" />
+        </a>
       </td>
     </tr>
   </table>
 </div>
 
-<br/><br/>
-
+<br/>
   <!-- High-Res Dynamic System Stats Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=blackarchparrot&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=D4AF37&text_color=ffffff&icon_color=D4AF37&border_color=D4AF37&hide_border=false&count_private=true" width="85%" alt="System Info Stats Card" />
