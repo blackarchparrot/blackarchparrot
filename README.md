@@ -1,159 +1,65 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         HEADER                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=bf953f&customColorList=0,10,25,50,100&height=220&section=header&text=AFTAB%20AHAMMAD%20SANI&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%2FML%20Developer%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20Systems%20Architect&descFontSize=15&descAlignY=62" width="100%" alt="Aftab Ahammad Sani">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=venom&color=bf953f&customColorList=0,10,25,50,100&height=220&section=header&text=AFTAB%20AHAMMAD%20SANI&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%2FML%20Developer%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20Systems%20Architect&descFontSize=15&descAlignY=62"
-  width="100%"
-  alt="Aftab Ahammad Sani Header"
-/>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          BADGES                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<br>
 
 <a href="https://github.com/blackarchparrot">
-  <img
-    src="https://img.shields.io/github/followers/blackarchparrot?label=Followers&logo=github&style=for-the-badge&color=D4AF37&labelColor=0d0d0d"
-    alt="GitHub Followers"
-  />
+<img src="https://img.shields.io/github/followers/blackarchparrot?label=FOLLOWERS&logo=github&style=for-the-badge&color=D4AF37&labelColor=0d0d0d" alt="Followers">
 </a>
 
-<img
-  src="https://img.shields.io/badge/LOCATION-DHAKA%2C%20BD-D4AF37?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d0d0d"
-  alt="Location"
-/>
+<img src="https://img.shields.io/badge/LOCATION-DHAKA%2C%20BD-D4AF37?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d0d0d" alt="Location">
 
-<img
-  src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-27C93F?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d0d0d"
-  alt="Open to Work"
-/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-27C93F?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d0d0d" alt="Status">
 
 <a href="https://three-bugs-portfolio.vercel.app/sunny.html">
-  <img
-    src="https://img.shields.io/badge/PORTFOLIO-LIVE%20SITE-007ACC?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d"
-    alt="Portfolio Site"
-  />
+<img src="https://img.shields.io/badge/PORTFOLIO-LIVE%20SITE-007ACC?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d" alt="Portfolio">
 </a>
 
-<br/><br/>
+<br><br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       TYPING TEXT                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=850&lines=Building+intelligent+systems+at+the+intersection+of+AI+and+Web3.;Crafting+high-performance+distributed+backend+architectures.;Transforming+complex+ideas+into+production-ready+software."
-  alt="Typing Subtitle"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=850&lines=Building+intelligent+systems+at+the+intersection+of+AI+and+Web3.;Crafting+high-performance+distributed+backend+architectures.;Transforming+complex+ideas+into+production-ready+software." alt="Typing Animation">
 
 </div>
 
-<br/>
+<br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    SYSTEM IDENTIFICATION                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h3 align="center">
-  <code>System Identification</code>
-</h3>
+<h3 align="center"><code>System Identification</code></h3>
 
 <div align="center">
 
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-<tr>
+<img src="https://github-readme-stats.vercel.app/api?username=blackarchparrot&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=D4AF37&text_color=ffffff&icon_color=D4AF37&rank_icon=github" width="49%" alt="GitHub Statistics">
 
-<td width="48%" align="center" valign="middle">
-
-<a href="https://github.com/blackarchparrot">
-
-<img
-  src="https://raw.githubusercontent.com/blackarchparrot/blackarchparrot/main/hxni-ascii.svg"
-  width="100%"
-  alt="ASCII Portrait"
-/>
-
-</a>
-
-</td>
-
-<td width="4%"></td>
-
-<td width="48%" align="center" valign="middle">
-
-<a href="https://github.com/blackarchparrot">
-
-<img
-  src="https://raw.githubusercontent.com/blackarchparrot/blackarchparrot/main/info-card.svg"
-  width="100%"
-  alt="System Information Card"
-/>
-
-</a>
-
-</td>
-
-</tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackarchparrot&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=D4AF37&text_color=ffffff&langs_count=8" width="38%" alt="Top Languages">
 
 </div>
 
-<br/>
+<br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       ACTIVITY MATRIX                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h3 align="center">
-  <code>Activity Matrix</code>
-</h3>
+<h3 align="center"><code>Activity Matrix</code></h3>
 
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=blackarchparrot&theme=react-dark&bg_color=0d0d0d&color=D4AF37&line=D4AF37&point=ffffff&area=true&hide_border=true"
-  width="100%"
-  alt="Contribution Activity Graph"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=blackarchparrot&bg_color=0d0d0d&color=D4AF37&line=D4AF37&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph">
 
 </div>
 
-<br/>
+<br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       FEATURED CREATIONS                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<h3 align="center"><code>Featured Creations</code></h3>
 
-<h3 align="center">
-  <code>Featured Creations</code>
-</h3>
-
-<table border="0" width="100%" cellspacing="0" cellpadding="12">
+<table width="100%" cellspacing="0" cellpadding="12">
 
 <tr>
 
 <td width="50%" valign="top">
 
-<h4 align="center">
-  <b>01. TexA — AI Textile Assistant</b>
-</h4>
+<h4 align="center">01. TexA — AI Textile Assistant</h4>
 
 <p align="center">
-
 <a href="https://texa-lilac.vercel.app/">
-
-<img
-  src="https://img.shields.io/badge/DEMO-TEXA%20AI-FFD700?style=for-the-badge&logo=vercel&labelColor=111111"
-  alt="TexA Demo"
-/>
-
+<img src="https://img.shields.io/badge/DEMO-TEXA%20AI-FFD700?style=for-the-badge&logo=vercel&labelColor=111111" alt="TexA">
 </a>
-
 </p>
 
 <p>
@@ -163,7 +69,7 @@ and intelligent decision-making workflows.
 </p>
 
 <p>
-<b>Tech Stack:</b><br/>
+<b>Tech Stack:</b><br>
 React • TypeScript • Python • Supabase • Tailwind CSS
 </p>
 
@@ -171,21 +77,12 @@ React • TypeScript • Python • Supabase • Tailwind CSS
 
 <td width="50%" valign="top">
 
-<h4 align="center">
-  <b>02. Learning Shelve</b>
-</h4>
+<h4 align="center">02. Learning Shelve</h4>
 
 <p align="center">
-
 <a href="http://pdf-shelve.blackparrotfedora.workers.dev/">
-
-<img
-  src="https://img.shields.io/badge/EXPLORE-LEARNING%20SHELVE-007ACC?style=for-the-badge&logo=cloudflare&labelColor=111111"
-  alt="Learning Shelve"
-/>
-
+<img src="https://img.shields.io/badge/EXPLORE-LEARNING%20SHELVE-007ACC?style=for-the-badge&logo=cloudflare&labelColor=111111" alt="Learning Shelve">
 </a>
-
 </p>
 
 <p>
@@ -194,7 +91,7 @@ organization, and streamable access to educational resources.
 </p>
 
 <p>
-<b>Tech Stack:</b><br/>
+<b>Tech Stack:</b><br>
 Cloudflare Workers • JavaScript • Node.js • REST API
 </p>
 
@@ -206,21 +103,12 @@ Cloudflare Workers • JavaScript • Node.js • REST API
 
 <td width="50%" valign="top">
 
-<h4 align="center">
-  <b>03. Birthday Wish Experience</b>
-</h4>
+<h4 align="center">03. Birthday Wish Experience</h4>
 
 <p align="center">
-
 <a href="https://birthdaywish-puce.vercel.app/">
-
-<img
-  src="https://img.shields.io/badge/LAUNCH-BIRTHDAY%20WISH-FF5F56?style=for-the-badge&logo=framer&labelColor=111111"
-  alt="Birthday Wish"
-/>
-
+<img src="https://img.shields.io/badge/LAUNCH-BIRTHDAY%20WISH-FF5F56?style=for-the-badge&logo=framer&labelColor=111111" alt="Birthday Wish">
 </a>
-
 </p>
 
 <p>
@@ -229,7 +117,7 @@ An interactive digital birthday experience built with immersive
 </p>
 
 <p>
-<b>Tech Stack:</b><br/>
+<b>Tech Stack:</b><br>
 React • Three.js • Framer Motion • CSS3
 </p>
 
@@ -237,21 +125,12 @@ React • Three.js • Framer Motion • CSS3
 
 <td width="50%" valign="top">
 
-<h4 align="center">
-  <b>04. WhatsApp Spoofing Research</b>
-</h4>
+<h4 align="center">04. WhatsApp Spoofing Research</h4>
 
 <p align="center">
-
 <a href="https://github.com/blackarchparrot/WhatsappSmsSpoof/">
-
-<img
-  src="https://img.shields.io/badge/REPO-CYBER%20RESEARCH-27C93F?style=for-the-badge&logo=github&labelColor=111111"
-  alt="Cyber Research Repository"
-/>
-
+<img src="https://img.shields.io/badge/REPO-CYBER%20RESEARCH-27C93F?style=for-the-badge&logo=github&labelColor=111111" alt="Cyber Research">
 </a>
-
 </p>
 
 <p>
@@ -261,7 +140,7 @@ for educational and security-research purposes.
 </p>
 
 <p>
-<b>Tech Stack:</b><br/>
+<b>Tech Stack:</b><br>
 Python • Networking • Security Research
 </p>
 
@@ -271,220 +150,122 @@ Python • Networking • Security Research
 
 </table>
 
-<br/>
+<br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       TECHNICAL ARSENAL                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h3 align="center">
-  <code>Technical Arsenal</code>
-</h3>
+<h3 align="center"><code>Technical Arsenal</code></h3>
 
 <div align="center">
 
 <b>Frontend & 3D Web</b>
 
-<br/><br/>
+<br><br>
 
-<img
-  src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,threejs,html,css&perline=7&theme=dark"
-  alt="Frontend and 3D Web Technologies"
-/>
+<img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,threejs,html,css&perline=7&theme=dark" alt="Frontend">
 
-<br/><br/>
+<br><br>
 
 <b>Backend, Cloud & Databases</b>
 
-<br/><br/>
+<br><br>
 
-<img
-  src="https://skillicons.dev/icons?i=nodejs,express,py,mysql,supabase,firebase&perline=6&theme=dark"
-  alt="Backend Cloud and Database Technologies"
-/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,py,mysql,supabase,firebase&perline=6&theme=dark" alt="Backend">
 
-<br/><br/>
+<br><br>
 
 <b>Mobile & Native Tools</b>
 
-<br/><br/>
+<br><br>
 
-<img
-  src="https://skillicons.dev/icons?i=androidstudio,kotlin,java&perline=3&theme=dark"
-  alt="Mobile and Native Development"
-/>
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java&perline=3&theme=dark" alt="Mobile">
 
-<br/><br/>
+<br><br>
 
 <b>DevOps & Workflows</b>
 
-<br/><br/>
+<br><br>
 
-<img
-  src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,cloudflare,docker&perline=7&theme=dark"
-  alt="DevOps and Development Workflow"
-/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,cloudflare,docker&perline=7&theme=dark" alt="DevOps">
 
 </div>
 
-<br/>
+<br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       CURRENT OPERATIONS                       -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h3 align="center">
-  <code>Current Operations</code>
-</h3>
+<h3 align="center"><code>Current Operations</code></h3>
 
 <div align="center">
 
-<table border="0" width="90%" cellspacing="0" cellpadding="10">
-
-<tr>
-<td align="center"><b>Focus</b></td>
-<td align="center"><b>Topic / Project</b></td>
-<td align="center"><b>Status</b></td>
-</tr>
-
-<tr>
-<td align="center">🚀 <b>Currently Building</b></td>
-<td align="center">Production LLM Evaluation & Agent Frameworks</td>
-<td align="center"><code>IN PROGRESS</code></td>
-</tr>
-
-<tr>
-<td align="center">📖 <b>Currently Learning</b></td>
-<td align="center">Deep Learning with PyTorch & Distributed Systems</td>
-<td align="center"><code>ACTIVE</code></td>
-</tr>
-
-<tr>
-<td align="center">⚡ <b>Fun Fact</b></td>
-<td align="center">Configures Linux environments manually & builds image-processing tools in Python</td>
-<td align="center"><code>TRUE</code></td>
-</tr>
-
-</table>
+| Focus | Topic / Project | Status |
+| :---: | :--- | :---: |
+| 🚀 **Currently Building** | Production LLM Evaluation & Agent Frameworks | `IN PROGRESS` |
+| 📖 **Currently Learning** | Deep Learning with PyTorch & Distributed Systems | `ACTIVE` |
+| ⚡ **Fun Fact** | Configures Linux environments manually & builds image-processing tools in Python | `TRUE` |
 
 </div>
 
-<br/>
+<br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       GITHUB TROPHIES                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h3 align="center">
-  <code>GitHub Milestones</code>
-</h3>
+<h3 align="center"><code>GitHub Milestones</code></h3>
 
 <div align="center">
 
-<img
-  src="https://github-profile-trophy.vercel.app/?username=blackarchparrot&theme=darkhub&column=4&margin-w=15&margin-h=15"
-  width="90%"
-  alt="GitHub Profile Trophies"
-/>
+<img src="https://github-profile-trophy.vercel.app/?username=blackarchparrot&theme=darkhub&column=4&margin-w=15&margin-h=15" width="90%" alt="GitHub Trophies">
 
 </div>
 
-<br/>
+<br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         SOCIALS                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<h3 align="center"><code>GitHub Statistics</code></h3>
 
-<h3 align="center">
-  <code>Socials & Connect</code>
-</h3>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=blackarchparrot&theme=dark&background=0d0d0d&border=0d0d0d&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" width="70%" alt="GitHub Streak">
+
+</div>
+
+<br>
+
+<h3 align="center"><code>Socials & Connect</code></h3>
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/aftab-ahammad-sani-60b008434/">
-
-<img
-  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-  alt="LinkedIn"
-/>
-
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="https://wa.me/8801570219779">
-
-<img
-  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-  alt="WhatsApp"
-/>
-
+<img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
 
 <a href="https://www.instagram.com/aftab._.sunny">
-
-<img
-  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-  alt="Instagram"
-/>
-
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
 <a href="https://www.facebook.com/aftab.sunny.399/">
-
-<img
-  src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-  alt="Facebook"
-/>
-
+<img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </a>
 
 <a href="mailto:blackparrotfedora@gmail.com">
-
-<img
-  src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-  alt="Email"
-/>
-
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-<br/><br/>
+<br><br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                           PORTFOLIO                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<p><b>Scan to view Portfolio on Mobile</b></p>
 
-<p>
-  <b>Scan to view Portfolio on Mobile</b>
-</p>
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=https%3A%2F%2Fthree-bugs-portfolio.vercel.app%2Fsunny.html&color=D4AF37&bgcolor=0d0d0d" width="160" alt="Portfolio QR Code">
 
-<img
-  src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=https://three-bugs-portfolio.vercel.app/sunny.html&color=D4AF37&bgcolor=0d0d0d"
-  width="160"
-  alt="Portfolio QR Code"
-/>
-
-<br/><br/>
+<br><br>
 
 <a href="https://three-bugs-portfolio.vercel.app/sunny.html">
-  <img
-    src="https://img.shields.io/badge/VISIT-MY%20PORTFOLIO-D4AF37?style=for-the-badge&labelColor=0d0d0d"
-    alt="Visit Portfolio"
-  />
+<img src="https://img.shields.io/badge/VISIT-MY%20PORTFOLIO-D4AF37?style=for-the-badge&labelColor=0d0d0d" alt="Portfolio">
 </a>
 
 </div>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                           FOOTER                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<br>
 
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=bf953f&height=120&section=footer"
-  width="100%"
-  alt="Footer"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=bf953f&height=120&section=footer" width="100%" alt="Footer">
 
 </div>
