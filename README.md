@@ -26,25 +26,24 @@
 
 <br/>
 
-
-
 ### <code>Aftab Sunny</code>
 
-<table border="0" width="100%">
-  <tr>
-    <td width="48%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/blackarchparrot/blackarchparrot/main/hxni-ascii.svg" width="100%" alt="ASCII Portrait" />
-    </td>
-    <td width="52%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/blackarchparrot/blackarchparrot/main/info-card.svg" width="100%" alt="System Info Card" />
-    </td>
-  </tr>
-</table>
+<!-- ADJUST THE width="85%" VALUE BELOW TO MAKE BOTH IMAGES BIGGER OR SMALLER -->
+<div align="center" style="width: 85%; margin: 0 auto;">
+  <table border="0" width="100%" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="48%" align="center" valign="middle">
+        <img src="https://raw.githubusercontent.com/blackarchparrot/blackarchparrot/main/hxni-ascii.svg" width="100%" alt="ASCII Portrait" />
+      </td>
+      <td width="4%"></td> <!-- Gap spacing between images -->
+      <td width="48%" align="center" valign="middle">
+        <img src="https://raw.githubusercontent.com/blackarchparrot/blackarchparrot/main/info-card.svg" width="100%" alt="System Info Card" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-
-
-
-  <br/><br/>
+<br/><br/>
 
   <!-- High-Res Dynamic System Stats Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
