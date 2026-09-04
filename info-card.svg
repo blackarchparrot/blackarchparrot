@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 580" width="100%" height="100%">
+  <defs>
+    <linearGradient id="infoBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d0d0d"/>
+      <stop offset="100%" stop-color="#141414"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .card-bg { fill: url(#infoBg); stroke: #D4AF37; stroke-width: 1.5; rx: 12px; }
+    .dot { r: 5.5px; cy: 18px; }
+    .dot-red { fill: #FF5F56; cx: 20px; }
+    .dot-yellow { fill: #FFBD2E; cx: 38px; }
+    .dot-green { fill: #27C93F; cx: 56px; }
+    .header-text { font-family: 'Courier New', monospace; font-size: 11px; fill: #888888; font-weight: bold; }
+    
+    .lbl { font-family: 'Courier New', Monaco, monospace; font-size: 11.5px; fill: #FFD700; font-weight: bold; }
+    .val { font-family: 'Segoe UI', Ubuntu, sans-serif; font-size: 11.5px; fill: #E0E0E0; font-weight: 500; }
+    .prompt { font-family: monospace; font-size: 12px; fill: #27C93F; font-weight: bold; }
+
+    .row { opacity: 0; animation: fadeIn 0.4s ease-out forwards; }
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(4px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+  </style>
+
+  <rect width="488" height="578" x="1" y="1" class="card-bg"/>
+  
+  <circle class="dot dot-red"/>
+  <circle class="dot dot-yellow"/>
+  <circle class="dot dot-green"/>
+  <text x="245" y="22" text-anchor="middle" class="header-text">The Cipher Stack v2.4.0</text>
+  <line x1="0" y1="32" x2="490" y2="32" stroke="#222222" stroke-width="1"/>
+
+  <text x="20" y="58" class="prompt">blackarchparrot@dhaka-node:~$ <tspan fill="#FFFFFF">neofetch --sysinfo</tspan></text>
+  <g class="row" style="animation-delay: 0.15s;">
+    <text x="20" y="90">
+      <tspan class="lbl">USER:</tspan>
+      <tspan x="125" class="val">Aftab Ahammad Sani (blackarchparrot)</tspan>
+    </text>
+    <line x1="20" y1="100" x2="470" y2="100" stroke="#1f1f1f" stroke-width="1"/>
+  </g>
+  <g class="row" style="animation-delay: 0.25s;">
+    <text x="20" y="128">
+      <tspan class="lbl">OS:</tspan>
+      <tspan x="125" class="val">Arch Linux x86_64 / macOS Sonoma</tspan>
+    </text>
+    <line x1="20" y1="138" x2="470" y2="138" stroke="#1f1f1f" stroke-width="1"/>
+  </g>
+  <g class="row" style="animation-delay: 0.35s;">
+    <text x="20" y="166">
+      <tspan class="lbl">HOST:</tspan>
+      <tspan x="125" class="val">Dhaka, Bangladesh (UTC+06:00)</tspan>
+    </text>
+    <line x1="20" y1="176" x2="470" y2="176" stroke="#1f1f1f" stroke-width="1"/>
+  </g>
+  <g class="row" style="animation-delay: 0.45s;">
+    <text x="20" y="204">
+      <tspan class="lbl">ROLE:</tspan>
+      <tspan x="125" class="val">AI/ML Developer & Full-Stack Engineer</tspan>
+    </text>
+    <line x1="20" y1="214" x2="470" y2="214" stroke="#1f1f1f" stroke-width="1"/>
+  </g>
+  <g class="row" style="animation-delay: 0.55s;">
+    <text x="20" y="242">
+      <tspan class="lbl">FOCUS:</tspan>
+      <tspan x="125" class="val">LLM Pipelines, 3D Web & Distributed Systems</tspan>
+    </text>
+    <line x1="20" y1="252" x2="470" y2="252" stroke="#1f1f1f" stroke-width="1"/>
+  </g>
+  <g class="row" style="animation-delay: 0.65s;">
+    <text x="20" y="280">
+      <tspan class="lbl">FRONTEND:</tspan>
+      <tspan x="125" class="val">React, TypeScript, Vite, Tailwind, Three.js</tspan>
+    </text>
+    <line x1="20" y1="290" x2="470" y2="290" stroke="#1f1f1f" stroke-width="1"/>
+  </g>
+  <g class="row" style="animation-delay: 0.75s;">
+    <text x="20" y="318">
+      <tspan class="lbl">BACKEND:</tspan>
+      <tspan x="125" class="val">Node.js, Express, Python, MySQL, Supabase</tspan>
+    </text>
+    <line x1="20" y1="328" x2="470" y2="328" stroke="#1f1f1f" stroke-width="1"/>
+  </g>
+  <g class="row" style="animation-delay: 0.85s;">
+    <text x="20" y="356">
+      <tspan class="lbl">MOBILE:</tspan>
+      <tspan x="125" class="val">React Native, Kotlin</tspan>
+    </text>
+    <line x1="20" y1="366" x2="470" y2="366" stroke="#1f1f1f" stroke-width="1"/>
+  </g>
+  <g class="row" style="animation-delay: 0.95s;">
+    <text x="20" y="394">
+      <tspan class="lbl">TOOLS:</tspan>
+      <tspan x="125" class="val">Git, Docker, Postman, Vercel, Cloudflare</tspan>
+    </text>
+    <line x1="20" y1="404" x2="470" y2="404" stroke="#1f1f1f" stroke-width="1"/>
+  </g>
+  <g class="row" style="animation-delay: 1.05s;">
+    <text x="20" y="432">
+      <tspan class="lbl">EMAIL:</tspan>
+      <tspan x="125" class="val">blackparrotfedora@gmail.com</tspan>
+    </text>
+    <line x1="20" y1="442" x2="470" y2="442" stroke="#1f1f1f" stroke-width="1"/>
+  </g>
+  <g class="row" style="animation-delay: 1.15s;">
+    <text x="20" y="470">
+      <tspan class="lbl">PORTFOLIO:</tspan>
+      <tspan x="125" class="val">three-bugs-portfolio.vercel.app/sunny.html</tspan>
+    </text>
+    <line x1="20" y1="480" x2="470" y2="480" stroke="#1f1f1f" stroke-width="1"/>
+  </g>
+  <g class="row" style="animation-delay: 1.25s;">
+    <text x="20" y="508">
+      <tspan class="lbl">STATUS:</tspan>
+      <tspan x="125" class="val">⚡ Open to High-Impact Opportunities</tspan>
+    </text>
+    <line x1="20" y1="518" x2="470" y2="518" stroke="#1f1f1f" stroke-width="1"/>
+  </g>
+  <text x="20" y="561" class="prompt">blackarchparrot@dhaka-node:~$ <tspan fill="#FFD700">█</tspan></text>
+</svg>
