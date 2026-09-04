@@ -28,23 +28,27 @@
 
 ### <code>Aftab Sunny</code>
 
-<table border="0" width="100%">
-  <tr>
-    <td width="42%" align="center" valign="top">
-      <img src="./hxni-ascii.svg" width="100%" alt="ASCII Portrait" />
-    </td>
-    <td width="58%" align="center" valign="top">
-      <img src="./info-card.svg" width="100%" alt="System Info Card" />
-    </td>
-  </tr>
-</table>
+<!-- Expanded Dynamic Cards -->
+<div align="center">
+  <!-- Dynamic Animated ASCII Banner -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=20&duration=2000&pause=500&color=D4AF37&center=true&vCenter=true&width=800&height=180&lines=%20_____%20_____%20_____%20_____%20___;%7C%20%20___%7C%20%20_%20%5C%7C%20%20___%7C%20%20___%7C%20_%20%5C;%7C%20%7C___%7C%20%7C_%20%7C%7C%20%7C___%7C%20%7C___%7C%20%7C_%20%7C;%7C%20%20___%7C%20%20_%20%3C%7C%20%20___%7C%20%20___%7C%20%20_%20%3C;%7C%20%7C___%7C%20%7C_%20%7C%7C%20%7C___%7C%20%7C___%7C%20%7C_%20%7C;%7C_____%7C____/%7C_____%7C_____%7C____/" alt="ASCII Banner" width="100%" />
+  </a>
+
+  <br/><br/>
+
+  <!-- High-Res Dynamic System Stats Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=blackarchparrot&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=D4AF37&text_color=ffffff&icon_color=D4AF37&border_color=D4AF37&hide_border=false&count_private=true" width="85%" alt="System Info Stats Card" />
+  </a>
+</div>
 
 <br/>
 
 ### <code>Activity Matrix</code>
 
 <div align="center">
-  <img src="./contrib-heatmap.svg" width="100%" alt="Contribution Heatmap" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blackarchparrot&theme=react-dark&bg_color=0d0d0d&color=D4AF37&line=D4AF37&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" />
 </div>
 
 <br/>
