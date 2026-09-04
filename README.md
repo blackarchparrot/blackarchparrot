@@ -26,14 +26,16 @@
 
 <br/>
 
+
+
 ### <code>Aftab Sunny</code>
 
-<!-- Expanded Dynamic Cards -->
 <div align="center">
-  <!-- Dynamic Animated ASCII Banner -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=20&duration=2000&pause=500&color=D4AF37&center=true&vCenter=true&width=800&height=180&lines=%20_____%20_____%20_____%20_____%20___;%7C%20%20___%7C%20%20_%20%5C%7C%20%20___%7C%20%20___%7C%20_%20%5C;%7C%20%7C___%7C%20%7C_%20%7C%7C%20%7C___%7C%20%7C___%7C%20%7C_%20%7C;%7C%20%20___%7C%20%20_%20%3C%7C%20%20___%7C%20%20___%7C%20%20_%20%3C;%7C%20%7C___%7C%20%7C_%20%7C%7C%20%7C___%7C%20%7C___%7C%20%7C_%20%7C;%7C_____%7C____/%7C_____%7C_____%7C____/" alt="ASCII Banner" width="100%" />
-  </a>
+  <img src="https://raw.githubusercontent.com/blackarchparrot/blackarchparrot/main/hxni-ascii.svg" width="90%" alt="ASCII Portrait" />
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/blackarchparrot/blackarchparrot/main/info-card.svg" width="90%" alt="System Info Card" />
+</div>
+
 
   <br/><br/>
 
