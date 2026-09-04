@@ -28,19 +28,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=blackarchparrot&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=D4AF37&text_color=ffffff&icon_color=D4AF37&rank_icon=github" width="49%" alt="GitHub Statistics">
 
-<img src="hxni-ascii.svg" width="800">
 
-</div>
-
-<br>
-
-<h3 align="center"><code>Activity Matrix</code></h3>
-
-<div align="center">
-  
-<img src="./info-card.svg" width="800">
+<img src="hxni-ascii.svg" width="800" height="300">       <img src="./info-card.svg" width="800" height="300">
 
 </div>
 
