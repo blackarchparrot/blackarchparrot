@@ -30,11 +30,18 @@
 
 ### <code>Aftab Sunny</code>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/blackarchparrot/blackarchparrot/main/hxni-ascii.svg" width="90%" alt="ASCII Portrait" />
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/blackarchparrot/blackarchparrot/main/info-card.svg" width="90%" alt="System Info Card" />
-</div>
+<table border="0" width="100%">
+  <tr>
+    <td width="48%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/blackarchparrot/blackarchparrot/main/hxni-ascii.svg" width="100%" alt="ASCII Portrait" />
+    </td>
+    <td width="52%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/blackarchparrot/blackarchparrot/main/info-card.svg" width="100%" alt="System Info Card" />
+    </td>
+  </tr>
+</table>
+
+
 
 
   <br/><br/>
