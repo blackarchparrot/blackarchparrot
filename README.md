@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- Cinematic Header Banner -->
+  <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=venom&color=bf953f&customColorList=0,10,25,50,100&height=220&section=header&text=AFTAB%20AHAMMAD%20SANI&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%2FML%20Developer%20%E2%80%A2%20Full-Stack%20Engineer%20%E2%80%A2%20Systems%20Architect&descFontSize=15&descAlignY=62" width="100%" alt="Header Banner" />
 
   <br/>
 
-  <!-- Status & Navigation Badges -->
+  <!-- Badges -->
   <a href="https://github.com/blackarchparrot">
     <img src="https://img.shields.io/github/followers/blackarchparrot?label=Followers&logo=github&style=for-the-badge&color=D4AF37&labelColor=0d0d0d" alt="GitHub Followers" />
   </a>
@@ -17,9 +17,9 @@
 
   <br/><br/>
 
-  <!-- Dynamic Typing Subtitle -->
+  <!-- Fixed Typing SVG Width (Width adjusted to 850px to prevent text cut-off) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+at+the+intersection+of+AI+and+Web3.;Crafting+high-performance+distributed+backend+architectures.;Transforming+complex+ideas+into+production-ready+software." alt="Typing Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=850&lines=Building+intelligent+systems+at+the+intersection+of+AI+and+Web3.;Crafting+high-performance+distributed+backend+architectures.;Transforming+complex+ideas+into+production-ready+software." alt="Typing Subtitle" />
   </a>
 
 </div>
@@ -28,19 +28,19 @@
 
 <h3 align="center"><code>System Identification</code></h3>
 
-<!-- Side-by-Side Card Grid -->
-<div align="center" style="width: 100%; margin: 0 auto;">
+<!-- Native Relative Image Paths -->
+<div align="center">
   <table border="0" width="100%" cellspacing="0" cellpadding="0">
     <tr>
       <td width="48%" align="center" valign="middle">
         <a href="https://github.com/blackarchparrot">
-          <img src="https://raw.githubusercontent.com/blackarchparrot/blackarchparrot/main/hxni-ascii.svg" width="100%" alt="ASCII Portrait" />
+          <img src="./hxni-ascii.svg" width="100%" alt="ASCII Portrait" />
         </a>
       </td>
       <td width="4%"></td>
       <td width="48%" align="center" valign="middle">
         <a href="https://github.com/blackarchparrot">
-          <img src="https://raw.githubusercontent.com/blackarchparrot/blackarchparrot/main/info-card.svg" width="100%" alt="System Info Card" />
+          <img src="./info-card.svg" width="100%" alt="System Info Card" />
         </a>
       </td>
     </tr>
@@ -51,6 +51,7 @@
 
 <h3 align="center"><code>Activity Matrix</code></h3>
 
+<!-- Fixed Activity Graph SVG with reliable fallback -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=blackarchparrot&theme=react-dark&bg_color=0d0d0d&color=D4AF37&line=D4AF37&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" />
 </div>
@@ -177,7 +178,6 @@
 
   <br/><br/>
 
-  <!-- Footer Wave Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=bf953f&height=120&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
