@@ -24,13 +24,17 @@
 
 <br>
 
+<img src="./info-card.svg" width="800">
+
+<br>
+
 <h3 align="center"><code>System Identification</code></h3>
 
 <div align="center">
 
 
 
-<img src="hxni-ascii.svg" width="800" height="300">       <img src="./info-card.svg" width="800" height="300">
+<img src="hxni-ascii.svg" width="800" height="300">       <img src="contrib-heatmap.svg" width="800" height="800">
 
 </div>
 
