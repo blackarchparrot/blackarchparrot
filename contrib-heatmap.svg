@@ -22,17 +22,17 @@
 
   <g transform="translate(380, 18)">
     <text x="0" y="10" class="metric-title">TOTAL</text>
-    <text x="0" y="26" class="metric-val">304</text>
+    <text x="0" y="26" class="metric-val">794</text>
   </g>
 
   <g transform="translate(500, 18)">
     <text x="0" y="10" class="metric-title">CURRENT STREAK</text>
-    <text x="0" y="26" class="metric-val">0 days</text>
+    <text x="0" y="26" class="metric-val">19 days</text>
   </g>
 
   <g transform="translate(640, 18)">
     <text x="0" y="10" class="metric-title">LONGEST STREAK</text>
-    <text x="0" y="26" class="metric-val">3 days</text>
+    <text x="0" y="26" class="metric-val">41 days</text>
   </g>
 
   <line x1="20" y1="48" x2="840" y2="48" stroke="#222222" stroke-width="1"/>
