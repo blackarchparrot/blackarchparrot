@@ -58,14 +58,14 @@
   <g class="row" style="animation-delay: 0.45s;">
     <text x="20" y="204">
       <tspan class="lbl">ROLE:</tspan>
-      <tspan x="125" class="val">AI/ML Developer & Full-Stack Engineer</tspan>
+      <tspan x="125" class="val">AI/ML Developer &amp; Full-Stack Engineer</tspan>
     </text>
     <line x1="20" y1="214" x2="470" y2="214" stroke="#1f1f1f" stroke-width="1"/>
   </g>
   <g class="row" style="animation-delay: 0.55s;">
     <text x="20" y="242">
       <tspan class="lbl">FOCUS:</tspan>
-      <tspan x="125" class="val">LLM Pipelines, 3D Web & Distributed Systems</tspan>
+      <tspan x="125" class="val">LLM Pipelines, 3D Web &amp; Distributed Systems</tspan>
     </text>
     <line x1="20" y1="252" x2="470" y2="252" stroke="#1f1f1f" stroke-width="1"/>
   </g>
