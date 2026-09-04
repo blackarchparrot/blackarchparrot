@@ -17,7 +17,7 @@
 
   <br/><br/>
 
-  <!-- Fixed Typing SVG Width (Width adjusted to 850px to prevent text cut-off) -->
+  <!-- Dynamic Typing Subtitle -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=850&lines=Building+intelligent+systems+at+the+intersection+of+AI+and+Web3.;Crafting+high-performance+distributed+backend+architectures.;Transforming+complex+ideas+into+production-ready+software." alt="Typing Subtitle" />
   </a>
@@ -28,7 +28,7 @@
 
 <h3 align="center"><code>System Identification</code></h3>
 
-<!-- Native Relative Image Paths -->
+<!-- Relative Paths to Repo Files -->
 <div align="center">
   <table border="0" width="100%" cellspacing="0" cellpadding="0">
     <tr>
@@ -51,9 +51,11 @@
 
 <h3 align="center"><code>Activity Matrix</code></h3>
 
-<!-- Fixed Activity Graph SVG with reliable fallback -->
+<!-- Standard Markdown syntax to prevent text-link fallback -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blackarchparrot&theme=react-dark&bg_color=0d0d0d&color=D4AF37&line=D4AF37&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" />
+
+![Contribution Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=blackarchparrot&theme=react-dark&bg_color=0d0d0d&color=D4AF37&line=D4AF37&point=ffffff&area=true&hide_border=true)
+
 </div>
 
 <br/>
