@@ -24,9 +24,9 @@
 
 <h3 align="center"><code>System Identification</code></h3>
 <br>
-
+<div align="center">
 <img src="./info-card.svg" width="800">
-
+</div>
 <br>
 
 
