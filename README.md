@@ -28,14 +28,14 @@
 
 ### <code>Aftab Sunny</code>
 
-<!-- ADJUST THE width="85%" VALUE BELOW TO MAKE BOTH IMAGES BIGGER OR SMALLER -->
-<div align="center" style="width: 85%; margin: 0 auto;">
+<!-- ADJUST THE width VALUE (e.g., 90%, 100%) TO RESIZE BOTH AT ONCE -->
+<div align="center" style="width: 95%; margin: 0 auto;">
   <table border="0" width="100%" cellspacing="0" cellpadding="0">
     <tr>
       <td width="48%" align="center" valign="middle">
         <img src="https://raw.githubusercontent.com/blackarchparrot/blackarchparrot/main/hxni-ascii.svg" width="100%" alt="ASCII Portrait" />
       </td>
-      <td width="4%"></td> <!-- Gap spacing between images -->
+      <td width="4%"></td>
       <td width="48%" align="center" valign="middle">
         <img src="https://raw.githubusercontent.com/blackarchparrot/blackarchparrot/main/info-card.svg" width="100%" alt="System Info Card" />
       </td>
