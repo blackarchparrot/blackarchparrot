@@ -30,7 +30,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=blackarchparrot&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=D4AF37&text_color=ffffff&icon_color=D4AF37&rank_icon=github" width="49%" alt="GitHub Statistics">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackarchparrot&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=D4AF37&text_color=ffffff&langs_count=8" width="38%" alt="Top Languages">
+<img src="hxni-ascii.svg" width="800">
 
 </div>
 
@@ -39,8 +39,8 @@
 <h3 align="center"><code>Activity Matrix</code></h3>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=blackarchparrot&bg_color=0d0d0d&color=D4AF37&line=D4AF37&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph">
+  
+<img src="./info-card.svg" width="800">
 
 </div>
 
