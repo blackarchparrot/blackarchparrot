@@ -51,13 +51,6 @@
 </div>
 
 <br/>
-  <!-- High-Res Dynamic System Stats Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=blackarchparrot&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=D4AF37&text_color=ffffff&icon_color=D4AF37&border_color=D4AF37&hide_border=false&count_private=true" width="85%" alt="System Info Stats Card" />
-  </a>
-</div>
-
-<br/>
 
 ### <code>Activity Matrix</code>
 
