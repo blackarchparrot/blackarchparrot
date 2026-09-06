@@ -211,11 +211,8 @@ Python • Networking • Security Research
 <h3 align="center"><code>GitHub Statistics</code></h3>
 
 <div align="center">
-  <a href="https://github.com/blackarchparrot">
-    <img src="./streak.svg" alt="GitHub Streak" width="800" />
-  </a>
+    <img src="streak.svg" alt="GitHub Streak" width="800">
 </div>
-
 <br>
 
 <h3 align="center"><code>Socials & Connect</code></h3>
