@@ -211,8 +211,8 @@ Python • Networking • Security Research
 <h3 align="center"><code>GitHub Statistics</code></h3>
 
 <div align="center">
-<a href="https://three-bugs-portfolio.vercel.app/contribution_svg.html">
-  <img src="https://three-bugs-portfolio.vercel.app/contribution_svg.html" alt="GitHub Streak" width="100%" />
+<a href="https://github.com/blackarchparrot">
+  <img src="https://three-bugs-portfolio.vercel.app/streak.svg" alt="GitHub Streak" width="100%" />
 </a>
 
 </div>
