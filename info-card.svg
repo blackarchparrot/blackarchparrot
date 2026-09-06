@@ -33,7 +33,7 @@
   <text x="245" y="22" text-anchor="middle" class="header-text">Black Parrot v2.4.0</text>
   <line x1="0" y1="32" x2="490" y2="32" stroke="#222222" stroke-width="1"/>
 
-  <text x="20" y="58" class="prompt">blackarchparrot@dhaka-node:~$ <tspan fill="#FFFFFF">neofetch --sysinfo</tspan></text>
+  <text x="20" y="58" class="prompt">blackarchparrot@blackparrot:~$ <tspan fill="#FFFFFF">neofetch --sysinfo</tspan></text>
   <g class="row" style="animation-delay: 0.15s;">
     <text x="20" y="90">
       <tspan class="lbl">USER:</tspan>
