@@ -27,7 +27,7 @@
 
   <g transform="translate(500, 18)">
     <text x="0" y="10" class="metric-title">CURRENT STREAK</text>
-    <text x="0" y="26" class="metric-val">1 days</text>
+    <text x="0" y="26" class="metric-val">0 days</text>
   </g>
 
   <g transform="translate(640, 18)">
@@ -406,6 +406,7 @@
   <rect x="789.0" y="108.5" width="11" height="11" fill="#3a2e05" class="day-box"><title>2026-08-22: 6 contributions</title></rect>
   <rect x="789.0" y="123.0" width="11" height="11" fill="#161616" class="day-box"><title>2026-08-29: 0 contributions</title></rect>
   <rect x="789.0" y="137.5" width="11" height="11" fill="#735c09" class="day-box"><title>2026-09-05: 12 contributions</title></rect>
+  <rect x="789.0" y="152.0" width="11" height="11" fill="#161616" class="day-box"><title>2026-09-12: 0 contributions</title></rect>
 
   <g transform="translate(710, 190)">
     <text x="-30" y="9" class="label">Less</text>
