@@ -22,7 +22,7 @@
 
   <g transform="translate(380, 18)">
     <text x="0" y="10" class="metric-title">TOTAL</text>
-    <text x="0" y="26" class="metric-val">418</text>
+    <text x="0" y="26" class="metric-val">426</text>
   </g>
 
   <g transform="translate(500, 18)">
@@ -353,7 +353,7 @@
   <rect x="673.0" y="152.0" width="11" height="11" fill="#161616" class="day-box"><title>2026-10-16: 0 contributions</title></rect>
   <rect x="687.5" y="65.0" width="11" height="11" fill="#3a2e05" class="day-box"><title>2026-10-23: 2 contributions</title></rect>
   <rect x="687.5" y="79.5" width="11" height="11" fill="#161616" class="day-box"><title>2026-10-30: 0 contributions</title></rect>
-  <rect x="687.5" y="94.0" width="11" height="11" fill="#161616" class="day-box"><title>2026-11-06: 0 contributions</title></rect>
+  <rect x="687.5" y="94.0" width="11" height="11" fill="#735c09" class="day-box"><title>2026-11-06: 8 contributions</title></rect>
   <rect x="687.5" y="108.5" width="11" height="11" fill="#161616" class="day-box"><title>2025-11-08: 0 contributions</title></rect>
   <rect x="687.5" y="123.0" width="11" height="11" fill="#161616" class="day-box"><title>2025-11-15: 0 contributions</title></rect>
   <rect x="687.5" y="137.5" width="11" height="11" fill="#161616" class="day-box"><title>2025-11-22: 0 contributions</title></rect>
@@ -406,6 +406,7 @@
   <rect x="789.0" y="108.5" width="11" height="11" fill="#FFD700" class="day-box"><title>2026-10-17: 28 contributions</title></rect>
   <rect x="789.0" y="123.0" width="11" height="11" fill="#161616" class="day-box"><title>2026-10-24: 0 contributions</title></rect>
   <rect x="789.0" y="137.5" width="11" height="11" fill="#161616" class="day-box"><title>2026-10-31: 0 contributions</title></rect>
+  <rect x="789.0" y="152.0" width="11" height="11" fill="#161616" class="day-box"><title>2026-11-07: 0 contributions</title></rect>
 
   <g transform="translate(710, 190)">
     <text x="-30" y="9" class="label">Less</text>
